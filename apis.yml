@@ -1,8 +1,28 @@
 aid: baseframe
 name: Baseframe
-description: Baseframe is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  BaseFrame (baseframe.co) is a Y Combinator (W26) startup building an AI
+  workflow discovery platform for teams and small businesses. Its privacy-first
+  desktop application analyzes historical work patterns across email, documents,
+  Slack, calendar, browser activity, and files using on-device local models to
+  identify high-value, repetitive tasks and recommend concrete AI automations,
+  then helps users set them up in the tools they already use. BaseFrame publishes
+  no public developer API, SDKs, or OpenAPI at this time; it is a consumer/desktop
+  product with SaaS integrations (Gmail, Slack, HubSpot, Salesforce, Google
+  Sheets, Office 365, Jira). Founded in 2025 by Anshul Paul and Vaibhav Agrawal.
 url: https://raw.githubusercontent.com/api-evangelist/baseframe/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://baseframe.co/logo.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +31,43 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Artificial Intelligence
+- Automation
+- Workflow Discovery
+- Productivity
+- Process Mining
+- Desktop Application
+- Y Combinator
 apis: []
+common:
+- type: DomainSecurity
+  url: security/baseframe-domain-security.yml
+- type: Website
+  url: https://baseframe.co
+- type: Blog
+  url: https://baseframe.co/blog
+- type: Pricing
+  url: https://baseframe.co/#pricing
+- type: SignUp
+  url: https://baseframe.co/sign-in
+- type: Support
+  url: https://baseframe.co/contact
+- type: TermsOfService
+  url: https://baseframe.co/terms
+- type: PrivacyPolicy
+  url: https://baseframe.co/privacy
+- type: LLMsTxt
+  url: llms/baseframe-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

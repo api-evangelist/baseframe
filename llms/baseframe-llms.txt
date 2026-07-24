@@ -1,0 +1,78 @@
+# BaseFrame
+
+BaseFrame finds tasks you can automate with your existing AI tools, then helps you set them up in the workflows you already use.
+
+## Core Pages
+- Home: https://baseframe.co/
+- AI Workflow Discovery: https://baseframe.co/ai-workflow-discovery
+- Use Cases: https://baseframe.co/use-cases
+- Integrations: https://baseframe.co/integrations
+- Comparisons: https://baseframe.co/compare
+- Guides: https://baseframe.co/guides
+- Blog: https://baseframe.co/blog
+- Pricing: https://baseframe.co/#pricing
+- Security and data control: https://baseframe.co/#data-control
+
+## GEO Pages
+- AI Workflow Discovery: https://baseframe.co/ai-workflow-discovery
+- Support Ticket Triage Automation: https://baseframe.co/use-cases/support-ticket-triage
+- Meeting Notes to CRM Automation: https://baseframe.co/use-cases/meeting-notes-to-crm
+- Weekly Status Report Automation: https://baseframe.co/use-cases/weekly-status-report-automation
+- Sales Follow-Up Automation: https://baseframe.co/use-cases/sales-follow-up-automation
+- Customer Price Sheet Automation: https://baseframe.co/use-cases/customer-price-sheet-automation
+- Gmail Workflow Discovery: https://baseframe.co/integrations/gmail
+- Slack Workflow Discovery: https://baseframe.co/integrations/slack
+- HubSpot Workflow Discovery: https://baseframe.co/integrations/hubspot
+- Salesforce Workflow Discovery: https://baseframe.co/integrations/salesforce
+- Google Sheets Workflow Discovery: https://baseframe.co/integrations/google-sheets
+- Office 365 Workflow Discovery: https://baseframe.co/integrations/office-365
+- Jira Workflow Discovery: https://baseframe.co/integrations/jira
+- Workflow Discovery vs Process Mining: https://baseframe.co/compare/workflow-discovery-vs-process-mining
+- Task Mining vs Process Mining vs Workflow Discovery: https://baseframe.co/compare/task-mining-vs-process-mining
+- AI Automation Discovery Tools: https://baseframe.co/compare/ai-automation-discovery-tools
+- BaseFrame vs Claude, Perplexity, and Computer-Use Agents: https://baseframe.co/compare/baseframe-vs-computer-use-agents
+- BaseFrame vs Celonis: https://baseframe.co/compare/baseframe-vs-celonis
+- BaseFrame vs SAP Signavio Process Intelligence: https://baseframe.co/compare/baseframe-vs-sap-signavio
+- BaseFrame vs UiPath Process Mining: https://baseframe.co/compare/baseframe-vs-uipath-process-mining
+- BaseFrame vs Microsoft Power Automate Process Mining: https://baseframe.co/compare/baseframe-vs-power-automate-process-mining
+- BaseFrame vs Claude Computer Use: https://baseframe.co/compare/baseframe-vs-claude-computer-use
+- BaseFrame vs Perplexity-style computer-use agents: https://baseframe.co/compare/baseframe-vs-perplexity-computer-use
+- BaseFrame vs Zapier: https://baseframe.co/compare/baseframe-vs-zapier
+- BaseFrame vs n8n: https://baseframe.co/compare/baseframe-vs-n8n
+- Best AI Automation Discovery Tools: https://baseframe.co/guides/best-ai-automation-discovery-tools
+
+## Page Hubs
+- Use case: Support Ticket Triage Automation: https://baseframe.co/use-cases/support-ticket-triage
+- Use case: Meeting Notes to CRM Automation: https://baseframe.co/use-cases/meeting-notes-to-crm
+- Use case: Weekly Status Report Automation: https://baseframe.co/use-cases/weekly-status-report-automation
+- Use case: Sales Follow-Up Automation: https://baseframe.co/use-cases/sales-follow-up-automation
+- Use case: Customer Price Sheet Automation: https://baseframe.co/use-cases/customer-price-sheet-automation
+- Integration: Gmail Workflow Discovery: https://baseframe.co/integrations/gmail
+- Integration: Slack Workflow Discovery: https://baseframe.co/integrations/slack
+- Integration: HubSpot Workflow Discovery: https://baseframe.co/integrations/hubspot
+- Integration: Salesforce Workflow Discovery: https://baseframe.co/integrations/salesforce
+- Integration: Google Sheets Workflow Discovery: https://baseframe.co/integrations/google-sheets
+- Integration: Office 365 Workflow Discovery: https://baseframe.co/integrations/office-365
+- Integration: Jira Workflow Discovery: https://baseframe.co/integrations/jira
+- Comparison: Workflow Discovery vs Process Mining: https://baseframe.co/compare/workflow-discovery-vs-process-mining
+- Comparison: Task Mining vs Process Mining vs Workflow Discovery: https://baseframe.co/compare/task-mining-vs-process-mining
+- Comparison: AI Automation Discovery Tools: https://baseframe.co/compare/ai-automation-discovery-tools
+- Comparison: BaseFrame vs Claude, Perplexity, and Computer-Use Agents: https://baseframe.co/compare/baseframe-vs-computer-use-agents
+- Comparison: BaseFrame vs Celonis: https://baseframe.co/compare/baseframe-vs-celonis
+- Comparison: BaseFrame vs SAP Signavio Process Intelligence: https://baseframe.co/compare/baseframe-vs-sap-signavio
+- Comparison: BaseFrame vs UiPath Process Mining: https://baseframe.co/compare/baseframe-vs-uipath-process-mining
+- Comparison: BaseFrame vs Microsoft Power Automate Process Mining: https://baseframe.co/compare/baseframe-vs-power-automate-process-mining
+- Comparison: BaseFrame vs Claude Computer Use: https://baseframe.co/compare/baseframe-vs-claude-computer-use
+- Comparison: BaseFrame vs Perplexity-style computer-use agents: https://baseframe.co/compare/baseframe-vs-perplexity-computer-use
+- Comparison: BaseFrame vs Zapier: https://baseframe.co/compare/baseframe-vs-zapier
+- Comparison: BaseFrame vs n8n: https://baseframe.co/compare/baseframe-vs-n8n
+- Guide: Best AI Automation Discovery Tools: https://baseframe.co/guides/best-ai-automation-discovery-tools
+
+## Blog Posts
+- The AI tax on account executives: https://baseframe.co/blog/the-ai-tax-on-account-executives
+- Why AI pilots stall before they ship: https://baseframe.co/blog/why-ai-pilots-stall-before-they-ship
+- How to find your first automation win: https://baseframe.co/blog/how-to-find-your-first-automation-win
+- The best AI rollouts start with proof, not prompts: https://baseframe.co/blog/the-best-ai-rollouts-start-with-proof-not-prompts
+
+## Product Summary
+BaseFrame helps teams discover repetitive workflows, estimate automation value, and generate practical AI automation specs across desktop and SaaS tools.
